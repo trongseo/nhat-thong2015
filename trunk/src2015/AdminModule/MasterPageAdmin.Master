@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageAdmin.Master.cs" Inherits="AdminModule_MasterPageAdmin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Admin DSS</title>
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+ <script type="text/javascript" src="js/CheckBox.js"></script>
+    <script type="text/javascript" src="js/general.js"></script>
+</head>
+<body>
+   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="2">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr align="right"> 
+    <td height="25" colspan="2"><strong>QU&#7842;N L&Yacute; TH&Ocirc;NG TIN WEBSITE</strong>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#00CCCC"> 
+    <td width="59%" height="25"><strong></strong></td>
+    <td width="41%" height="25" align="right" > 
+      <strong> <a href="login.aspx?from=logout" class="style1">Tho&aacute;t</a>&nbsp; | &nbsp; <a href="ChangePassword.aspx">&#272;&#7893;i m&#7853;t kh&#7849;u</a>&nbsp; 
+      
+      </strong></td>
+
+  </tr>
+</table>
+
+					
+    </td>
+
+  </tr>
+  <tr> 
+    <td width="18%" valign="top"  class='lineR' > 
+   <!--#include file="hleftmenu.aspx"-->
+    </td>
+    <td width="82%" valign="top" style="padding-left:5px">  <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr> 
+    <td  height="5" > </td>
+  </tr>
+  <tr> 
+    <td width="100%" align="center" valign="top" class="lineT"> Bản quyền thuộc </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,16 @@
+table.emotions {
+	border: 0px;
+}
+
+td.emotions, td.emotionsOver {
+        height: 35px;
+        width: 35px;
+	border: 1px solid transparent;
+	text-align: center;
+}
+
+td.emotionsOver {
+	background-color: #FFFFBE;
+	cursor: hand;
+        border: 1px solid #AAAAAA;
+}
