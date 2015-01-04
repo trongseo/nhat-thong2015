@@ -1,0 +1,115 @@
+.hiddenthis{display:none}
+.text {  padding-left:6; padding-right:6}
+li {
+list-style : url(imagesadmins/arrow.gif);
+}
+.bg {
+	background-repeat:repeat-y;
+	background-image: url(bg_03.gif);
+	background-position: right;
+	width: 174px;
+
+
+}
+td {
+	font-family: Tahoma,sans-serif,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+}
+input {
+	background-color: #fffffe;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+img
+{
+	border:0;}
+.button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #009933;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-color: #FFFFCC;
+	border-right-color: #990000;
+	border-bottom-color: #990000;
+	border-left-color: #FFFFCC;
+	color: #FFFFFF;
+}
+.myunderline {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.nonscrollpage {
+	overflow: hidden;
+}
+.tableheader {
+	background-image: url(icon_theader.gif);
+	background-repeat: no-repeat;
+	padding-top: 1px;
+	padding-bottom: 2px;
+	height: 20px;
+	font-size: 12px;
+	color: #A85400;
+	border-top: 0px none #666666;
+	border-right: 0px none #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 0px none #666666;
+	font-weight: bold;
+	}
+body {
+	background-color: #FFFFFF;
+}
+.lineR{
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-color: #eeeeee;
+	border-right-color: #cccccc;
+	border-bottom-color: #eeeeee;
+	border-left-color: #eeeeee;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.tdinputtitle
+{
+	background-color:#ffffff;
+	font-size: 12px;
+	padding-right:5px;
+}
+.rowerro
+{
+	
+	padding-top: 1px;
+	padding-left: 2px;
+	height: 1px;
+	font-size: 11px;
+	border-top: 0px none #666666;
+	border-right: 0px none #666666;
+	border-bottom: 1px solid #E9E9E9;
+	border-left: 0px none #666666;
+	
+}
+.opacityit img {
+opacity:0.4;
+}
