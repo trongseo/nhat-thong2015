@@ -63,9 +63,13 @@
  <tr>
         <td style="padding-left:5px"><a href="MyInfoManage.aspx?Id=2">Cập nhật dịch vụ </a></td>
              </tr>
-             <tr>
-        <td style="padding-left:5px"><a href="UpdateVideo.aspx?Id=3">Cập nhậtVideo </a></td>
+
+         <tr>
+        <td style="padding-left:5px"><a href="MyInfoManage.aspx?Id=35">Cập nhật Hậu mãi </a></td>
              </tr>
+             <%--<tr>
+        <td style="padding-left:5px"><a href="UpdateVideo.aspx?Id=3">Cập nhậtVideo </a></td>
+             </tr>--%>
  <%--<tr>
         <td style="padding-left:5px"><a href="MyInfoManage.aspx?Id=6">Cập nhật cửa sổ đầu tiên </a></td>
              </tr>--%>
