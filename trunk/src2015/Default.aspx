@@ -55,17 +55,32 @@
                         for (int i = 0; i < dtNewsSP.Rows.Count; i++)
                         {
                             System.Data.DataRow dr = dtNewsSP.Rows[i];
-                            System.Data.DataRow dr1 = dtNewsSP.Rows[i+1];
+                            System.Data.DataRow dr1 = null;
+                            if (dtNewsSP.Rows.Count>i+1)
+                            {
+                                dr1 = dtNewsSP.Rows[i+1];
+                            }
+                           
                             i++; 
                             %>
               
                 <tr>
-                    <td align="center"><img src="ItemImage/<%=dr["PathImage"]%>" width="269" height="127" /><br />
+                    <td align="center"><a href="ProductDetailt.aspx?Id=<%=dr["id"]%>" class="menu-left-link"> <img src="ItemImage/<%=dr["PathImage"]%>" width="269" height="127" /></a><br />
                       <span class="title_number"><a href="ProductDetailt.aspx?Id=<%=dr["id"]%>" class="menu-left-link"> <%=dr["Name"]%></a><br />
 M&atilde;:  <%=dr["Code"]%></span></td>
-                    <td align="center"><img src="ItemImage/<%=dr1["PathImage"]%>" width="269" height="127" /><br />
+
+                    <td align="center">
+                        <%if (dr1 != null)
+                          { %>
+                        <a href="ProductDetailt.aspx?Id=<%=dr1["id"]%>" class="menu-left-link">
+                        <img src="ItemImage/<%=dr1["PathImage"]%>" width="269" height="127" /></a><br />
                       <span class="title_number"> <a href="ProductDetailt.aspx?Id=<%=dr1["id"]%>" class="menu-left-link"> <%=dr1["Name"]%></a><br />
-M&atilde;: <%=dr1["Code"]%></span></td>
+M&atilde;: <%=dr1["Code"]%></span>
+                          <%
+                          } %>
+                        
+
+                    </td>
                   </tr>
                   
                             <%
