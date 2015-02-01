@@ -32,7 +32,7 @@
                         <td height="10">
                         </td>
                         <td height="10" nowrap>
-                            <a href="amItemNo.aspx">Thêm  mới</a></td>
+                            <a href="ItemDetailManage.aspx">Thêm  mới</a></td>
                         <td height="10">
                             <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
                             </asp:DropDownList>
