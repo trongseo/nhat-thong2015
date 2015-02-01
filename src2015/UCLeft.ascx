@@ -80,16 +80,28 @@ A.Thông: 0918464135<br />
               <tr>
                 <td style="padding-left:5px">
 
-				<div><span class="title-bar">KINH DOANH </span> 
+				<div>
 
-
-
-<a href="ymsgr:SendIM?minhtrungglass">
-			   <img border="0" width='60' height='60' src="http://opi.yahoo.com/online?u=minhtrungglass&amp;m=g&amp;t=23" ></a>
+                    <% string snick=MyApp.GetInfo(36);
+                       string []arn= snick.Split(";".ToCharArray());
+                       string kinhdoanh = "";
+                       string kythuat = "";
+                       if (arn.Length>0)
+                       {
+                           kinhdoanh = arn[0];
+                       }
+                       if (arn.Length ==2)
+                       {
+                           kythuat = arn[1];
+                       }
+                        %>
+                    <span class="title-bar">KINH DOANH </span> 
+<a href="ymsgr:SendIM?<%=kinhdoanh %>">
+			   <img border="0" width='60' height='60' src="http://opi.yahoo.com/online?u=<%=kinhdoanh %>&amp;m=g&amp;t=23" ></a>
 
 </div>
-				<div><span class="title-bar">K&#7928; THU&#7852;T </span> <a href="ymsgr:SendIM?mrquocky">
-			   <img border="0" width='60' height='60' src="http://opi.yahoo.com/online?u=mrquocky&amp;m=g&amp;t=23" ></a></div>				</td>
+				<div><span class="title-bar">K&#7928; THU&#7852;T </span> <a href="ymsgr:SendIM?<%=kythuat %>">
+			   <img border="0" width='60' height='60' src="http://opi.yahoo.com/online?u=<%=kythuat %>&amp;m=g&amp;t=23" ></a></div>				</td>
               </tr>
             </table></td>
           </tr>
