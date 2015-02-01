@@ -37,7 +37,7 @@
           </tr>
           <tr>
             <td align="center"><div class="text">
-			<img style="float:left; padding:5px;" src="images/company.jpg" width="200" height="252" />
+			
 			<%=MyApp.GetInfo(2) %>
 			</div></td>
           </tr>
