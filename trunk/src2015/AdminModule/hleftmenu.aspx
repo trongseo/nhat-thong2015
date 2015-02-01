@@ -11,7 +11,10 @@
 
         <td style="padding-left:5px"  ><a href="ContactList.aspx">Danh sách liên hệ</a></td>
       </tr>
-	   
+	    <tr>
+
+        <td style="padding-left:5px"  ><a href="MyInfoManage1.aspx?Id=36">Cập nhật nick</a></td>
+      </tr>
       <tr>
         <td class="tableheader">Quản lý sản phẩm</td>
       </tr>
