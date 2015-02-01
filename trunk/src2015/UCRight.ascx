@@ -38,15 +38,7 @@ A.Thông: 0918464135<br>
 </object></td>
               </tr>
              
-              <tr>
-                <td align="center"><a class="menu-left-link" href="#"><br /> TỈ GIÁ NGOẠI TỆ</a></td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <script src="http://www.vnexpress.net/service/forex_content.js"></script>
-                
-                <script src="http://www.sincovn.com/tigia.js"></script></td>
-              </tr>
+             
               <tr>
                 <td align="center"><img height="235" width="170" src="images/ads/1185706777.gif"></td>
               </tr>
