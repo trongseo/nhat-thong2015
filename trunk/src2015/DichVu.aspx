@@ -19,7 +19,7 @@
     <td valign="top" bgcolor="#FFFFFF"><table width="1000" border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td width="200" align="center" valign="top" class="line-left-bg">  <uc1:UCLeft ID="UCLeft1" runat="server" /></td>
-        <td width="600" align="center" valign="top" class="line-content-bg"><table  border="0" cellspacing="0" cellpadding="0">
+        <td width="800" align="center" valign="top" class="line-content-bg"><table  border="0" cellspacing="0" cellpadding="0">
           <tr>
             <td>
 
@@ -30,7 +30,7 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
                   <td width="7"><img src="images/bar_left.jpg" width="7" height="27" /></td>
-                  <td width="648" align="left" background="images/bar_bg.jpg" class="title-bar">DỊCH VỤ</td>
+                  <td width="848" align="left" background="images/bar_bg.jpg" class="title-bar">DỊCH VỤ</td>
                   <td width="28" align="right"><span class=""> <img src="images/bar_right.jpg" width="28" height="27" /></span></td>
                 </tr>
             </table></td>
@@ -42,7 +42,7 @@
 			</div></td>
           </tr>
         </table></td>
-        <td width="200" valign="top" class="line-right-bg-add"><uc2:UCRight ID="UCRight" runat="server" /></td>
+      <%--  <td width="200" valign="top" class="line-right-bg-add"><uc2:UCRight ID="UCRight" runat="server" /></td>--%>
       </tr>
     </table></td>
   </tr>

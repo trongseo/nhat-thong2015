@@ -22,13 +22,13 @@
     <td valign="top" bgcolor="#FFFFFF"><table width="1000" border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td width="200" align="center" valign="top" class="line-left-bg">  <uc1:UCLeft ID="UCLeft1" runat="server" /></td>
-        <td width="600" align="center" valign="top" class="line-content-bg">
+        <td width="800" align="center" valign="top" class="line-content-bg">
 <table width="" border="0" align="center" cellpadding="0" cellspacing="0">
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td width="7"><img src="images/bar_left.jpg" width="7" height="27" /></td>
-                <td width="650" background="images/bar_bg.jpg" class="title-bar">LI&Ecirc;N H&#7878; </td>
+                <td width="848" background="images/bar_bg.jpg" class="title-bar">LI&Ecirc;N H&#7878; </td>
                 <td width="28" align="right"><img src="images/bar_right.jpg" width="28" height="27" /></td>
               </tr>
             </table></td>
@@ -110,7 +110,7 @@
             </table></td>
           </tr>
         </table></td>
-        <td width="200" valign="top" class="line-right-bg-add"><uc2:UCRight ID="UCRight" runat="server" /></td>
+      <%--  <td width="200" valign="top" class="line-right-bg-add"><uc2:UCRight ID="UCRight" runat="server" /></td>--%>
       </tr>
     </table></td>
   </tr>
