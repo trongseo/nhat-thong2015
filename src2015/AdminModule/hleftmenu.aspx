@@ -23,7 +23,8 @@
         <td style="padding-left:5px"><a href="ItemDetailManage.aspx">Thêm sản phẩm </a></td>
       </tr>
       <tr>
-        <td style="padding-left:5px"><a href="ItemDetailList.aspx">Danh sách sản phẩm </a></td>
+     <%--   <td style="padding-left:5px"><a href="ItemDetailList.aspx">Danh sách sản phẩm </a></td>--%>
+         <td style="padding-left:5px"><a href="amItemListNo.aspx">Danh sách sản phẩm </a></td>  
       </tr>
 
      <%--  <tr>
