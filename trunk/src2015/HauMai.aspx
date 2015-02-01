@@ -32,7 +32,7 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
                   <td width="7"><img src="images/bar_left.jpg" width="7" height="27" /></td>
-                  <td width="648" align="left" background="images/bar_bg.jpg" class="title-bar">GIỚI THIỆU</td>
+                  <td width="648" align="left" background="images/bar_bg.jpg" class="title-bar">DỊCH VỤ HẬU MÃI</td>
                   <td width="28" align="right"><span class=""> <img src="images/bar_right.jpg" width="28" height="27" /></span></td>
                 </tr>
             </table></td>

@@ -35,21 +35,38 @@
           </tr>
           <tr>
             <td>
-			<div class="text">
-			<img style="float:left; padding:5px;" src="images/logo.jpg" width="236" height="107" />	
-			<strong> CÔNG TY TNHH THƯƠNG MẠI CÔNG NGHỆ KÍNH NHẬT THÔNG</strong> <br />
-			Địa chỉ: 23 - C1 Cộng Hòa, P.13, Q.Tân Bình ,TP. HỒ CHÍ MINH
-            <br />
-			Tel:+848 6296 1042 Fax:+848 3842 6944<br />
-			Email: vnglasstech@hcm.fpt.vn<br />
-			Tài khoản: Cty TNHH TM-TB-KT-CNK Nhật Thông -Số: 0071004763345 - Vietcombank<br />
-			Website: <a href='http://NHATTHONGGLASSTECH.COM'>NHATTHONGGLASSTECH.COM</a></div>			</td>
+			<div class="text" align="center">
+			&nbsp;<strong><font size="4">CÔNG TY TNHH THƯƠNG MẠI CÔNG NGHỆ KÍNH NHẬT THÔNG</font></strong> <br>
+			   <font size="2"> <strong><em>Trụ sở chính:</em></strong> Số 67, Đường 22 ( số cũ M5), KCN Tân Bình Mở Rộng, F. Bình Hưng Hoà, Q.Bình Tân ,TP. HỒ CHÍ MINH
+            <br>
+			<b>Tel</b>: +848 37 658 780 - 37 658 781  <b>Fax</b>:  +848 37 658  779 <br>
+			    <strong><em>Văn phòng phía bắc:</em></strong> biệt thự 23, Làng việt kiều Châu 
+                Âu, khu đô thị Mỗ Lao, Hà Nội<br>
+			Website: <a href="http://NHATTHONGGLASSTECH.COM">NHATTHONGGLASSTECH.COM</a></font></div>			</td>
 			 
           
                 
           </tr>
+    <tr>
+            <td class="text" align="center">
+                <br>
+                <font size="5" color="gray">Bản đồ trụ sở chính</font> 
+                <br>
+                <br>
+               
+                <a href="http://nhatthongglasstech.com/images/sodo_icon.jpg" class="highslide" onclick="return hs.expand(this)">
+	            <img src="http://nhatthongglasstech.com/images/sodo_icon.jpg" alt="Highslide JS" title="Click to enlarge"></a>
+                     
+                </td>
+
+          </tr>
           <tr>
-            <td class="text">Vui lòng điền thông tin dưới đây</td>
+            <td class="text" align="center">
+                <br>
+                <strong><font size="3"> VUI LÒNG ĐIỀN ĐẦY ĐỦ THÔNG TIN DƯỚI ĐÂY</font></strong><br>
+                (Để công ty chúng tôi có thể liên lạc được với quý khách xin quý khách vui lòng 
+                cung cấp chính xác tên, số điện thoại và nội dung. Xin cám ơn quý khách)</td>
+
           </tr>
           <tr>
             <td><table width="70%" border="0" align="center" cellpadding="0" cellspacing="3">
