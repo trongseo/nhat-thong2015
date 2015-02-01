@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Intro.aspx.cs" Inherits="Intro" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="HauMai.aspx.cs" Inherits="Intro" %>
 
 <%@ Register Src="UCLeft.ascx" TagName="UCLeft" TagPrefix="uc1" %>
 <%@ Register Src="UCRight.ascx" TagName="UCRight" TagPrefix="uc2" %>
@@ -40,7 +40,7 @@
           <tr>
             <td align="center"><div class="text">
 			
-			<%=MyApp.GetInfo(1) %>
+			<%=MyApp.GetInfo(35) %>
 			</div></td>
           </tr>
         </table></td>
