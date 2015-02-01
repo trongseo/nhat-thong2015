@@ -102,7 +102,7 @@ namespace DemoWebsite.AdminModule
             UploadMainImageFile(item.Id);
             UploadMoreImageFile1(FileUpload2,item.Id);
             UploadMoreImageFile2(FileUpload3, item.Id);
-            Response.Redirect("ItemDetailList.aspx");
+            Response.Redirect("amItemListNo.aspx");
 
             
         }
