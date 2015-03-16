@@ -65,8 +65,8 @@
             </table>
             <TABLE>
                     <tr>
-                    <td align="center" class="number"><br>A.Nhật: 0918456648<br>
-A.Thông: 0918464135<br />
+                    <td align="center" class="number"><br>A.Nhật: 0918 456 648<br>
+A.Trung:0917 156 590<br />
                         <br /> 
 </td>
                     </tr>

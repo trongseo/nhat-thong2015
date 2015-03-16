@@ -41,8 +41,7 @@
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
                   <td width="7" align="right"><img src="images/bar_left.jpg" width="7" height="27" /></td>
-                  <td width="848" align="left" background="images/bar_bg.jpg" class="title-bar">SẢN 
-                      PHẨM BÁN CHẠY</td>
+                  <td width="848" align="left" background="images/bar_bg.jpg" class="title-bar"><%=mtitle %></td>
                   <td width="28" align="left"><span class=""> <img src="images/bar_right.jpg" width="28" height="27" /></span></td>
                 </tr>
             </table></td>
@@ -63,7 +62,8 @@
                             %>
               
                 <tr>
-                    <td align="center"><img src="ItemImage/<%=dr["PathImage"]%>" width="269" height="127" /><br />
+                    <td align="center">
+                        <a href="ProductDetailt.aspx?Id=<%=dr["id"]%>"><img src="ItemImage/<%=dr["PathImage"]%>" width="269" height="127" /></a> <br />
                       <span class="title_number"><a href="ProductDetailt.aspx?Id=<%=dr["id"]%>" class="menu-left-link"> <%=dr["Name"]%></a><br />
 M&atilde;:  <%=dr["Code"]%></span></td>
 <% if (dr1 == null)
@@ -77,7 +77,7 @@ M&atilde;:  <%=dr["Code"]%></span></td>
     else
     { 
        %>
-       <td align="center"><img src="ItemImage/<%=dr1["PathImage"]%>" width="269" height="127" /><br />
+       <td align="center"><a href="ProductDetailt.aspx?Id=<%=dr1["id"]%>"><img src="ItemImage/<%=dr["PathImage"]%>" width="269" height="127" /></a><br />
                       <span class="title_number"> <a href="ProductDetailt.aspx?Id=<%=dr1["id"]%>" class="menu-left-link"> <%=dr1["Name"]%></a><br />
 M&atilde;: <%=dr1["Code"]%></span></td>
        <%

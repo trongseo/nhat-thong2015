@@ -14,10 +14,13 @@
 </tr>
 <tr>
 <td align="center" class="bottom-bg" ><div class="menu-bot">
-<b><i>CÔNG TY TNHH CÔNG NGHỆ KÍNH NHẬT THÔNG</i></b> <br>
-<b>Trụ sở chính :</b>Số 67, Đường 22 ( số cũ M5), KCN Tân Bình Mở Rộng, F. Bình Hưng Hoà, Q.Bình Tân ,TP. HỒ CHÍ MINH Tell: <b>+848 37 658 780 - 37 658 781</b> Fax: <b>+848 37 658  779</b>
-<br><b>Văn phòng đại diện phía bắc</b>: 
-    Biệt thự 23, Làng việt kiều Châu Âu, khu đô thị Mỗ Lao, Hà Nội. Tell 0938744456</br>
+<b><i>CÔNG TY TNHH PHÁT TRIỂN CÔNG NGHỆ KÍNH NHẬT MINH</i></b> <br/>
+<b>Trụ sở chính :</b>Số 990/3, Đường Âu Cơ, P.14, Q.Tân Bình ,TP. HỒ CHÍ MINH. <b>Tel</b>: +848 62 557 983    <b>Fax</b>:  +848 62 557 895 <br>
+
+    <b>Mã số thuế</b> :0313111597 <br />
+<br/><b>Địa chỉ kho</b>: 
+     87/66 Phan Văn Hớn, Khu phố 4, P.Tân Thới Nhất, Q.12,TP. HỒ CHÍ MINH.<br/>
+    <br> 
    <a href ="Intro.aspx"><b>May mai kinh</b></a> | <a href ="HauMai.aspx"><i>Máy mài kính</i></a>
     
     </div></td>

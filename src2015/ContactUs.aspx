@@ -36,13 +36,12 @@
           <tr>
             <td>
 			<div class="text" align="center">
-			&nbsp;<strong><font size="4">CÔNG TY TNHH THƯƠNG MẠI CÔNG NGHỆ KÍNH NHẬT THÔNG</font></strong> <br>
-			   <font size="2"> <strong><em>Trụ sở chính:</em></strong> Số 67, Đường 22 ( số cũ M5), KCN Tân Bình Mở Rộng, F. Bình Hưng Hoà, Q.Bình Tân ,TP. HỒ CHÍ MINH
-            <br>
-			<b>Tel</b>: +848 37 658 780 - 37 658 781  <b>Fax</b>:  +848 37 658  779 <br>
-			    <strong><em>Văn phòng phía bắc:</em></strong> biệt thự 23, Làng việt kiều Châu 
-                Âu, khu đô thị Mỗ Lao, Hà Nội<br>
-			Website: <a href="http://NHATTHONGGLASSTECH.COM">NHATTHONGGLASSTECH.COM</a></font></div>			</td>
+			&nbsp;<strong><font size="4">CÔNG TY TNHH PHÁT TRIỂN CÔNG NGHỆ KÍNH NHẬT MINH</font></strong> <br>
+			   <font size="2"> <strong><em>Trụ sở chính:</em></strong> Số 990/3, Đường Âu Cơ, P.14, Q.Tân Bình ,TP. HỒ CHÍ MINH
+            <br> <b>Mã số thuế</b> :0313111597 <br />
+			<b>Tel</b>: +848 62 557 983    <b>Fax</b>:  +848 62 557 895 <br>
+			    <strong><em>Địa chỉ kho:</em></strong> 87/66 Phan Văn Hớn, Khu phố 4, P.Tân Thới Nhất, Q.12,TP. HỒ CHÍ MINH.<br>
+			Website: <a href="http://NHATMINHGLASSTECH.COM">NHATMINHGLASSTECH.COM</a></font></div>			</td>
 			 
           
                 
@@ -53,9 +52,11 @@
                 <font size="5" color="gray">Bản đồ trụ sở chính</font> 
                 <br>
                 <br>
-               
-                <a href="http://nhatthongglasstech.com/images/sodo_icon.jpg" class="highslide" onclick="return hs.expand(this)">
-	            <img src="http://nhatthongglasstech.com/images/sodo_icon.jpg" alt="Highslide JS" title="Click to enlarge"></a>
+              <iframe width="450" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.vietbando.com/maps/vbdEmbed.aspx?t=1&amp;st=0&amp;sk=990/4+%c3%82u+c%c6%a1,+ph%c6%b0%e1%bb%9dng+14,+qu%e1%ba%adn+t%c3%a2n+b%c3%acnh,+th%c3%a0nh+ph%e1%bb%91+h%e1%bb%93+ch%c3%ad+minh&amp;l=15&amp;kv=10.7994782,106.641840&amp;cl=323325&amp;sb" style="color:#D98923;" mytubeid="mytube1">
+                     
+                &lt;/td&gt;</iframe>
+              <%--  <a href="http://nhatthongglasstech.com/images/sodo_icon.jpg" class="highslide" onclick="return hs.expand(this)">
+	            <img src="http://nhatthongglasstech.com/images/sodo_icon.jpg" alt="Highslide JS" title="Click to enlarge"></a>--%>
                      
                 </td>
 
